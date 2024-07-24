@@ -21,7 +21,7 @@ Given an array of integers and a target sum, write a function that returns two n
 
 **Test Case - 1**
 
-Inpur:
+Input:
 
 ```
 array = [3, 5, -4, 8, 11, 1, -1, 6]
@@ -38,7 +38,7 @@ Explanation: The numbers 11 and -1 add up to 10.
 
 **Test Case - 2**
 
-Inpur:
+Input:
 
 ```
 array = [4, 6, 1, -3]
@@ -55,7 +55,7 @@ Explanation: The numbers 6 and -3 add up to 3.
 
 **Test Case - 3**
 
-Inpur:
+Input:
 
 ```
 array = [1, 2, 3, 4, 5]
